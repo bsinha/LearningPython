@@ -1,0 +1,6 @@
+Some more Content 
+Additional Content 
+I hope this will not be overwritten 
+Let's hope so, since this is in append mode 
+Some stuff 
+Some other stuff 
